@@ -1,5 +1,5 @@
 randomise()
-self.bullet = instance_create_depth(random_range(20 + 4, 300 - 4), random_range(120 + 4, 200 - 4), obj_heart.depth, obj_spinbullet)
+self.bullet = instance_create_depth(random_range(4, 320 - 4), random_range(68, 235), obj_heart.depth, obj_spinbullet)
 if (self.bullet.y == obj_heart.y - 2) instance_destroy(self.bullet)
 if (self.bullet.y == obj_heart.y + 2) instance_destroy(self.bullet)
 if (self.bullet.x == obj_heart.x - 2) instance_destroy(self.bullet)

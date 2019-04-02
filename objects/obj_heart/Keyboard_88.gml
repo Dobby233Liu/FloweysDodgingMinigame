@@ -1,0 +1,1 @@
+if (self.speedup < 2) self.speedup += 0.01

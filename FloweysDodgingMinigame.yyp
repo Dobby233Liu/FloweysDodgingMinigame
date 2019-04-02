@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "04752af4-ebf3-4207-89e6-c69675ef7b11",
+            "Value": {
+                "id": "cbe8ca80-4126-4606-8840-5bfa7b327606",
+                "resourcePath": "sprites\\spr_hbullet\\spr_hbullet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0d18f8d8-0994-47c8-82c2-13ca86a087b5",
             "Value": {
                 "id": "4facd8a5-9750-4d94-9ce8-4fe2cce4d00f",
@@ -111,18 +119,10 @@
             }
         },
         {
-            "Key": "3f14ae96-b233-4bce-8da8-a7563b1b06a4",
-            "Value": {
-                "id": "c2e05c17-542a-493b-a8f8-63f3fc5502f0",
-                "resourcePath": "fonts\\fnt_main\\fnt_main.yy",
-                "resourceType": "GMFont"
-            }
-        },
-        {
             "Key": "48f9c5af-93d3-4099-b0be-128ca4ab962d",
             "Value": {
                 "id": "c56e5364-a0f8-406e-93d7-bcc35284bf5a",
-                "resourcePath": "fonts\\fnt_maintxt\\fnt_maintxt.yy",
+                "resourcePath": "fonts\\fnt_main\\fnt_main.yy",
                 "resourceType": "GMFont"
             }
         },
@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "8030aad3-3c57-47d9-8a80-5602d39a2abe",
+            "Value": {
+                "id": "03781fc2-ab7b-48ee-ba3d-b053905484eb",
+                "resourcePath": "objects\\obj_hbullet\\obj_hbullet.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "83d20a98-7de2-47de-8124-713df947051d",
             "Value": {
                 "id": "4f7080ed-955c-4f52-aa7f-0972466f6ccf",
@@ -311,6 +319,14 @@
             }
         },
         {
+            "Key": "bef5eb17-4e08-400f-be5b-751f7daab1a0",
+            "Value": {
+                "id": "d240f90f-4738-4e51-86ae-c1bb7e691c62",
+                "resourcePath": "objects\\obj_con\\obj_con.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "bf18307a-e816-430d-bb23-28523e450e8f",
             "Value": {
                 "id": "8a51b647-aa50-4a54-bcaa-1bd189ec34f5",
@@ -380,14 +396,6 @@
                 "id": "1fdf4bb0-3a02-4cd6-814d-dedde7386e2f",
                 "resourcePath": "options\\android\\options_android.yy",
                 "resourceType": "GMAndroidOptions"
-            }
-        },
-        {
-            "Key": "e63488eb-395c-4051-b84c-66c1377e10c8",
-            "Value": {
-                "id": "61409c83-1b56-4b56-823f-bea4b86a739c",
-                "resourcePath": "fonts\\fnt_floweybig\\fnt_floweybig.yy",
-                "resourceType": "GMFont"
             }
         },
         {
