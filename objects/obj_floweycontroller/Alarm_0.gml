@@ -1,2 +1,2 @@
-image_index = 1
-self.alarm[1] = room_speed
+audio_stop_all()
+room_goto(room_gameend)
