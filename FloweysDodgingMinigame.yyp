@@ -87,6 +87,30 @@
             }
         },
         {
+            "Key": "3f14ae96-b233-4bce-8da8-a7563b1b06a4",
+            "Value": {
+                "id": "c2e05c17-542a-493b-a8f8-63f3fc5502f0",
+                "resourcePath": "fonts\\fnt_main\\fnt_main.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "48f9c5af-93d3-4099-b0be-128ca4ab962d",
+            "Value": {
+                "id": "c56e5364-a0f8-406e-93d7-bcc35284bf5a",
+                "resourcePath": "fonts\\fnt_maintxt\\fnt_maintxt.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "50210c41-d485-4f3a-8079-c20d78bbbda7",
+            "Value": {
+                "id": "98661b61-25bb-403f-864e-72bf67ff05bf",
+                "resourcePath": "objects\\obj_title\\obj_title.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "53a8154a-c8f8-4e50-bf0f-ec013ce3c0e4",
             "Value": {
                 "id": "15cdc6c4-08ad-40a9-8bc0-9ec6aa74e034",
@@ -159,6 +183,14 @@
             }
         },
         {
+            "Key": "8a9ed5e0-4de6-4f44-aef2-6e4e88bf4f28",
+            "Value": {
+                "id": "3a7c3a3f-4c32-4049-9037-4250eb2c6b5d",
+                "resourcePath": "sounds\\snd_floweybattle_menemytype\\snd_floweybattle_menemytype.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "93566aad-c3b3-48a9-8fa7-9c5ee19f74ac",
             "Value": {
                 "id": "5a2b52f2-f6d1-499c-a51a-315b85cd4609",
@@ -194,7 +226,7 @@
             "Key": "b4ef93f2-e0b2-4c25-bc5a-cc87fb8e53b3",
             "Value": {
                 "id": "5a964096-d9f9-4733-87a6-b9845a78a05c",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\room_title\\room_title.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -223,6 +255,14 @@
             }
         },
         {
+            "Key": "d0f73c92-8dd9-405f-b9f2-0b6e671133c9",
+            "Value": {
+                "id": "271f734d-4202-488f-8c0f-83afc46db438",
+                "resourcePath": "rooms\\room_battle\\room_battle.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "dca03a6c-b625-4da2-9c59-20f5b1791d86",
             "Value": {
                 "id": "9f91f0e7-0ac6-49b7-a691-6535ae8d8135",
@@ -236,6 +276,14 @@
                 "id": "1fdf4bb0-3a02-4cd6-814d-dedde7386e2f",
                 "resourcePath": "options\\android\\options_android.yy",
                 "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
+            "Key": "e63488eb-395c-4051-b84c-66c1377e10c8",
+            "Value": {
+                "id": "61409c83-1b56-4b56-823f-bea4b86a739c",
+                "resourcePath": "fonts\\fnt_floweybig\\fnt_floweybig.yy",
+                "resourceType": "GMFont"
             }
         },
         {
