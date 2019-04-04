@@ -1,4 +1,4 @@
-y -= 4
+y -= 2.25 - obj_heart.speedup
 if(place_meeting(x, y, obj_spinbullet)){
 	instance_destroy(instance_place(x, y, obj_spinbullet))
 	instance_destroy()
