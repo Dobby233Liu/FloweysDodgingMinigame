@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "6a396e49-b7e6-4595-9f02-c21b2e7f1400",
+            "Value": {
+                "id": "29dd9794-04b5-4a89-9cb9-016e61e92411",
+                "resourcePath": "sprites\\spr_heart_border\\spr_heart_border.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6d0f5595-156d-4e79-b29f-56f2fddb29e2",
             "Value": {
                 "id": "e71e99ee-d5aa-4e9e-b902-bcc9735162dc",
